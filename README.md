@@ -1,6 +1,6 @@
 # 我的餐廳清單
 
-![Image](./public/image/S2_A1_screenshot.png)
+![Image](./public/image/S2_A1_screenshot.PNG)
 
 ## 介紹：
 
